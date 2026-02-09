@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Hack: Overdrive",
+  "description": "A roguelike hacking game teaching AI security through real-world prompt injection attacks. Breach AI guardians, manage token budgets, and unlock advanced payloads.",
+  "requestFramePermissions": []
+}
